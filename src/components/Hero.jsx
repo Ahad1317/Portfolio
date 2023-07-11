@@ -34,7 +34,7 @@ const Hero = () => {
             >
               Hello, This is
             </motion.span>
-            Ahad
+            &nbsp;Ahad
           </h1>
           <motion.p
             initial={{ x: -100, opacity: 0 }}
