@@ -129,7 +129,7 @@ const experiences = [
       "A mern stack, social media API Application",
       "Designed using React, MongoDB, node.js, express.js tech stacks.",
       "Implemented responsive CSS layouts and integrated features like user authentication",
-      "immersive and secure social media platform. Link: https://github.com/Ahad1317/CircleUp_mern",
+      "immersive and secure social media platform.",
     ],
   },
   {
@@ -142,7 +142,7 @@ const experiences = [
       "A mern stack, books API Application",
       "Implemented CRUD operations for fetching, adding, updating, and deleting books",
       "Providing users with a seamless and interactive platform to organize and track their reading journey.",
-      "Link: https://github.com/Ahad1317/Paper-Trail_mern",
+      "Link:",
     ],
   },
   {
@@ -155,7 +155,7 @@ const experiences = [
       "Utilizing Material-UI for designing intuitive user interfaces.",
       "Implemented carousel animations to showcase property listings.",
       "Offers a visually appealing browsing experience.",
-      "Link: https://github.com/Ahad1317/Windbnb",
+      "Link:",
     ],
   },
   {
