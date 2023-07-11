@@ -1,8 +1,9 @@
-import React from 'react'
-
+import gifImage from "../../assets/gif.gif";
 const Computers = () => {
   return (
-    <div>Computers</div>
+    <div className='flex justify-center'>
+        <img src={gifImage} alt="Your GIF" className="mt-80 rounded-xl border-white border-[3px]"/>
+      </div>
   )
 }
 
