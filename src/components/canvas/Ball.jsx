@@ -1,4 +1,5 @@
 import React, { Suspense,useMemo } from "react";
+import { motion } from "framer-motion";
 import { Canvas } from "@react-three/fiber";
 import { Decal, Float, OrbitControls, useTexture, } from "@react-three/drei";
 import CanvasLoader from "../Loader";
@@ -18,7 +19,7 @@ const Ball = (props) => {
     []
   );
 
-  return (
+  return ( 
     <Float speed={1} rotationIntensity={1.75}>
       <ambientLight intensity={0.25} />
       <directionalLight position={[0, 0, 0.05]} />

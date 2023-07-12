@@ -25,7 +25,10 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
-
+import IEEE from "./company/IEEE.png";
+import alexa from "./company/alexa.jpg";
+import ssoc from "./company/ssoc.jpg";
+import airbnb from "./company/airbnb.jpg"
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
@@ -55,6 +58,10 @@ export {
   meta,
   shopify,
   starbucks,
+  IEEE,
+  alexa,
+  ssoc,
+  airbnb,
   tesla,
   carrent,
   jobit,
