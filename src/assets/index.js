@@ -30,6 +30,9 @@ import alexa from "./company/alexa.jpg";
 import ssoc from "./company/ssoc.jpg";
 import airbnb from "./company/airbnb.jpg"
 import carrent from "./carrent.png";
+import circleup from "./circleup.png";
+import windbnb from "./windbnb.png";
+import snakezaaz from "./snakezaaz.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -64,6 +67,9 @@ export {
   airbnb,
   tesla,
   carrent,
+  circleup,
+  windbnb,
+  snakezaaz,
   jobit,
   tripguide,
 };

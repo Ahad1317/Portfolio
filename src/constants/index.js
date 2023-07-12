@@ -27,6 +27,9 @@ import {
   jobit,
   tripguide,
   threejs,
+  circleup,
+  windbnb,
+  snakezaaz,
 } from "../assets";
 
 export const navLinks = [
@@ -204,9 +207,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Circle-Up",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "A mern stack, social media API Application. Implemented responsive CSS layouts and integrated features like user authentication to create an immersive and secure social media platform.",
     tags: [
       {
         name: "react",
@@ -217,45 +220,45 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "node-express",
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: circleup,
+    source_code_link: "https://github.com/Ahad1317/CircleUp_mern",
   },
   {
-    name: "Job IT",
+    name: "Wind BnB",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "A responsive Airbnb clone project, utilizing Material-UI for designing intuitive user interfaces. Implemented carousel animations to showcase property listings, offering a visually appealing browsing experience.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "mui",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "tailwind",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: windbnb,
+    source_code_link: "https://github.com/Ahad1317/Windbnb",
   },
   {
-    name: "Trip Guide",
+    name: "Snake Zaaz",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A captivating snake game, featuring an immersive gameplay experience. Employing the cutting-edge blurbox algorithm, powered by Canvas, Game delivers addictive fun with dynamic visuals and engaging mechanics.",
     tags: [
       {
-        name: "nextjs",
+        name: "vanillajs",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "html-canvas",
         color: "green-text-gradient",
       },
       {
@@ -263,8 +266,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: snakezaaz,
+    source_code_link: "https://github.com/Ahad1317/Snake-Zaaz",
   },
 ];
 
