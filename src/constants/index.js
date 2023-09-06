@@ -15,17 +15,10 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
   IEEE,
   alexa,
   ssoc,
-  tesla,
-  shopify,
   airbnb,
-  carrent,
-  jobit,
-  tripguide,
   threejs,
   circleup,
   windbnb,
@@ -57,7 +50,7 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Competitive Coder",
     icon: mobile,
   },
   {
@@ -65,7 +58,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Competitive Coder",
+    title: "Cloud & Open source enthusiast",
     icon: creator,
   },
 ];
