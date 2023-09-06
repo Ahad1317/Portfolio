@@ -21,20 +21,14 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+
 import IEEE from "./company/IEEE.png";
 import alexa from "./company/alexa.jpg";
 import ssoc from "./company/ssoc.jpg";
 import airbnb from "./company/airbnb.jpg"
-import carrent from "./carrent.png";
 import circleup from "./circleup.png";
 import windbnb from "./windbnb.png";
 import snakezaaz from "./snakezaaz.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
 
 export {
   logo,
@@ -58,18 +52,11 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
   IEEE,
   alexa,
   ssoc,
   airbnb,
-  tesla,
-  carrent,
   circleup,
   windbnb,
   snakezaaz,
-  jobit,
-  tripguide,
 };
