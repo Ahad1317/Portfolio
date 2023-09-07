@@ -1,8 +1,9 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { styles } from '../styles';
 import { navLinks } from '../constants';
 import { logo, menu, close } from '../assets';
+import { motion } from 'framer-motion';
 
 const Navbar = () => {
   const [Active, setActive] = useState("")
@@ -55,6 +56,15 @@ const Navbar = () => {
                     </div>                                
               </div>
       </div>
+      <a href="/planet/Ahad.pdf" target="_blank">
+        <motion.button
+        initial={{opacity: 0}}
+        animate={{opacity: 1}}
+        transition={{delay:0.5}}
+        className='px-4 rounded-md ml-6 text-blue-500 text-[25px] border border-blue-500 hover:text-blue-100 duration-300  '>
+        Resume
+        </motion.button>
+      </a>
     </nav>
   )
 }
